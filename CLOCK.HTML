@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>Ajax Clock</title>
+    <style type="text/css">
+      #clock {border: 1px solid;width 20em}
+    </style>
+    <script type="text/javascript" src="CLOCK.JS"></script>
+  </head>
+  <body onload="update_clock()">
+    <h1>Ajax Clock</h1>
+    <div id="clock">
+      <dl>
+        <dt>Date:</dt><dd>0000/00/00</dd>
+        <dt>Time:</dt><dd>00:00:00</dd>
+      </dl>
+    </div>
+    <input type="button" value="update" onclick="update_clock()">
+  </body>
+</html>

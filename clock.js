@@ -60,7 +60,7 @@ function update_clock_callback(xhr,to) {
 function get_homedir() {
 
   // --- 自分自身に関する情報の設定(自分の位置を検出するために必要) --
-  var sThis_filename    = 'CLOCK.JS'; // このファイルの名前(*1)
+  var sThis_filename    = 'clock.js'; // このファイルの名前(*1)
   var sPath_to_the_home = '.';        // ↑のホームdirへの相対パス
      // (*1) 同名ファイルが他に存在するなどして、ファイル名だけでは一意
      //      に絞り込めない場合、「<script src="~">で必ず含めると保証さ

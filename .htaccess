@@ -1,0 +1,4 @@
+Options +ExecCGI
+<FilesMatch "\.CGI$">
+    SetHandler application/x-httpd-cgi
+</FilesMatch>

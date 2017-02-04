@@ -12,7 +12,7 @@ You can experience the demo working on [that page](http://lab-sakura.richlab.org
  * chmod +x CLOCK.CGI
 1. Open the CLOCK.HTML with your web browser, and enjoy!
 
-# Licese
+# License
 
 Complete Public Domain (=CC0)
 You don't have to worry at all!

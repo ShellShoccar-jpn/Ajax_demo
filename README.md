@@ -11,3 +11,8 @@ You can experience the demo working on [that page](http://lab-sakura.richlab.org
 1. Give the executable permission to the file "CLOCK.CGI" by the following command.
  * chmod +x CLOCK.CGI
 1. Open the CLOCK.HTML with your web browser, and enjoy!
+
+# Licese
+
+Complete Public Domain (=CC0)
+You don't have to worry at all!
